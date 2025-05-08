@@ -1,0 +1,10 @@
+college:
+  data:
+    resources:
+      images: "image folder path"
+      videos: "video folder path"
+    info:
+      name: MES IMCC Pune
+      contact: 9088778890
+      email: ems.imcc@gmail.com
+      address: Kothrud 411041
